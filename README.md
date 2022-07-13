@@ -1,3 +1,6 @@
+Оригинальный репозитарий    
+https://github.com/weaveworks/wks-quickstart-firekube    
+
 # Firekube
 
 Firekube is a Kubernetes cluster working on top of [ignite][gh-ignite] and
