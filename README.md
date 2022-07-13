@@ -1,5 +1,11 @@
+# Firekube Kubernetes-кластер, работающий в виртуальной машине Firecracker.   
+
 Оригинальный репозитарий    
 https://github.com/weaveworks/wks-quickstart-firekube    
+
+Эксперименты RND - по микроЯдрам и МикроВиртуалкам, на хорошем железе запускается 5000 [Serverless-функций].“Pods-микровиртуалок” за 1 мин.  
+https://github.com/gridgentoo/firecracker-demo  
+
 
 # Firekube
 
